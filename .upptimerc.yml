@@ -4,6 +4,16 @@ repo: TumMenu-upptime
 sites:
   - name: TumMenu Web
     url: https://tummenu.com
+    maxResponseTime: 5000
+
+workflowSchedule:
+  uptime: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
+  responseTime: "8,23,38,53 * * * *"
+  graphs: "10,25,40,55 * * * *"
+  summary: "12,27,42,57 * * * *"
+  staticSite: "14,29,44,59 * * * *"
+  updateTemplate: "0 0 * * 0"
+  updates: "0 3 * * *"
 
 status-website:
   baseUrl: /TumMenu-upptime
