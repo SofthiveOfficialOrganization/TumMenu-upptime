@@ -1,10 +1,14 @@
-owner: SofthiveOfficialOrganization
-repo: TumMenu-upptime
-
-sites:
-  - name: TumMenu
-    url: https://tummenu.com
-
 status-website:
   baseUrl: /TumMenu-upptime
   name: TumMenu Status
+  theme: tummenu
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  introTitle: "TumMenu Sistem Durumu"
+  introMessage: "TumMenu servislerinin canlı çalışma durumunu, yanıt sürelerini ve geçmiş olay kayıtlarını buradan takip edebilirsiniz."
+  navbar:
+    - title: Durum
+      href: /
+    - title: Website
+      href: https://tummenu.com
+    - title: GitHub
+      href: https://github.com/SofthiveOfficialOrganization/TumMenu-upptime
