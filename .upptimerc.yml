@@ -8,7 +8,7 @@ sites:
 status-website:
   baseUrl: /TumMenu-upptime
   name: TumMenu Status
-  theme: tummenu
+  theme: ocean
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   introTitle: "TumMenu Sistem Durumu"
   introMessage: "TumMenu servislerinin canlı çalışma durumunu, yanıt sürelerini ve geçmiş olay kayıtlarını buradan takip edebilirsiniz."
