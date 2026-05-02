@@ -1,20 +1,20 @@
 [
   {
-    "name": "TumMenu",
+    "name": "TumMenu Web",
     "url": "https://tummenu.com",
     "icon": "https://icons.duckduckgo.com/ip3/tummenu.com.ico",
-    "slug": "tum-menu",
+    "slug": "tum-menu-web",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 1046,
-    "timeWeek": 1046,
-    "timeMonth": 1046,
-    "timeYear": 1046,
+    "time": 1041,
+    "timeDay": 1041,
+    "timeWeek": 1041,
+    "timeMonth": 1041,
+    "timeYear": 1041,
     "dailyMinutesDown": {}
   }
 ]
