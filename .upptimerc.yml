@@ -1,3 +1,10 @@
+owner: SofthiveOfficialOrganization
+repo: TumMenu-upptime
+
+sites:
+  - name: TumMenu Web
+    url: https://tummenu.com
+
 status-website:
   baseUrl: /TumMenu-upptime
   name: TumMenu Status
