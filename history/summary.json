@@ -5,20 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/tummenu.com.ico",
     "slug": "tum-menu-web",
     "status": "degraded",
-    "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 1381,
-    "timeDay": 3715,
-    "timeWeek": 2268,
-    "timeMonth": 1637,
-    "timeYear": 1381,
+    "uptime": "99.72%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.72%",
+    "time": 1404,
+    "timeDay": 4926,
+    "timeWeek": 2452,
+    "timeMonth": 1692,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2026-05-14": 54,
       "2026-05-16": 42,
-      "2026-05-18": 114
+      "2026-05-18": 114,
+      "2026-07-14": 59,
+      "2026-07-13": 23
     }
   }
 ]
